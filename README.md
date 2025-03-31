@@ -16,15 +16,7 @@
 
 ### 📌 Home Page
 
-![PassZAHI Home](./screenshots/home.png)
-
-### 📌 Adding a Password
-
-![Adding Password](./screenshots/add-password.png)
-
-### 📌 Saved Passwords
-
-![Saved Passwords](./screenshots/saved-passwords.png)
+![PassZAHI Home](./demo.png)
 
 ## 🛠️ Technologies Used
 
