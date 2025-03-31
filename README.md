@@ -16,7 +16,7 @@
 
 ### 📌 Home Page
 
-![PassZAHI Home](./demo.png)
+![PassZAHI Home](/src/younes.png)
 
 ## 🛠️ Technologies Used
 
