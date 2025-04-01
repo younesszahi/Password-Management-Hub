@@ -16,7 +16,11 @@
 
 ### 📌 Home Page
 
-![PassZAHI Home](/src/demo.png)
+![PassZAHI Home](https://password-management-o9omxxz7r-younes-zahis-projects.vercel.app/demo.png)
+
+### 📌 Local Demo Screenshot
+
+![PassZAHI Demo](./src/demo.png)
 
 ## 🛠️ Technologies Used
 
@@ -33,46 +37,3 @@
 git clone https://github.com/yourusername/passzahi.git
 cd passzahi
 ```
-
-### 2️⃣ Install Dependencies
-
-```sh
-npm install
-```
-
-### 3️⃣ Run the Application
-
-```sh
-npm start
-```
-
-This will start the React development server at `http://localhost:3000`.
-
-## 📤 Deployment
-
-You can deploy this project for free using **GitHub Pages, Vercel, or Netlify**.
-
-### Deploy on Vercel (Recommended)
-
-```sh
-npm run build
-vercel deploy
-```
-
-Or, deploy using GitHub Pages:
-
-```sh
-npm run deploy
-```
-
-## 🤝 Contributing
-
-Feel free to submit issues or pull requests for improvements.
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
-## 📧 Contact
-
-For any inquiries, reach out to [your-email@example.com].
